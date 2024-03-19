@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC7C37782BA6A21D00373023 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC7C37772BA6A21D00373023 /* Weather.swift */; };
 		ACDBC8042BA52D1A0099E02B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDBC8032BA52D1A0099E02B /* AppDelegate.swift */; };
 		ACDBC8062BA52D1A0099E02B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDBC8052BA52D1A0099E02B /* SceneDelegate.swift */; };
 		ACDBC8082BA52D1A0099E02B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDBC8072BA52D1A0099E02B /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AC7C37772BA6A21D00373023 /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
 		ACDBC8002BA52D1A0099E02B /* Lab8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lab8.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACDBC8032BA52D1A0099E02B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACDBC8052BA52D1A0099E02B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				ACDBC8032BA52D1A0099E02B /* AppDelegate.swift */,
 				ACDBC8052BA52D1A0099E02B /* SceneDelegate.swift */,
 				ACDBC8072BA52D1A0099E02B /* ViewController.swift */,
+				AC7C37772BA6A21D00373023 /* Weather.swift */,
 				ACDBC8092BA52D1A0099E02B /* Main.storyboard */,
 				ACDBC80C2BA52D1C0099E02B /* Assets.xcassets */,
 				ACDBC80E2BA52D1C0099E02B /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC7C37782BA6A21D00373023 /* Weather.swift in Sources */,
 				ACDBC8082BA52D1A0099E02B /* ViewController.swift in Sources */,
 				ACDBC8042BA52D1A0099E02B /* AppDelegate.swift in Sources */,
 				ACDBC8062BA52D1A0099E02B /* SceneDelegate.swift in Sources */,
